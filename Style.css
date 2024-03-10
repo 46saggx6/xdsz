@@ -1,0 +1,41 @@
+header{
+   background-color: blueviolet;
+   text-align: center;
+   
+}
+#pp{
+   padding-left :700px;
+   text-align: end;
+
+}
+#Header{
+   padding-bottom: 40px;
+   font-family: Arial Black;
+}
+#Navbar{
+ background-color: black;
+ height: 70px;
+}
+a{
+   text-decoration: none;
+   margin: 50px;
+   font-size: 25px;
+}
+#ff{
+   text-align: center;
+}
+#cc{
+   text-align: center;
+}
+
+#ss{
+   background-color: cadetblue;
+}
+div{
+   background-color: darkgrey;
+   height: 230px;
+   text-align: center;
+}
+.pp{
+   padding-top: 90px;
+}
